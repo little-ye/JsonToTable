@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "author": "wb-wy921434 <wb-wy921434@alibaba-inc.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "html-react-parser": "^5.1.12",
+    "json5-to-table": "^0.1.8",
+    "umi": "^4.3.14"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.4",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.4"
+  }
+}
