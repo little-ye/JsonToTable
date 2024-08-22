@@ -8,7 +8,7 @@
 2. 表格导出,只有行内样式才能生效哦!
 
 ### generateHTMLTable
-这个是一个生成<table>html结构的插件,你也可以不用,自己生成或从接口拿取
+这个是一个生成table html结构的插件,你也可以不用,自己生成或从接口拿取
 
 ### html-react-parse
 这个是将合并后的表格字符串转为jsx
